@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SKY13453-385LF
+D 0.01 to 6.0 GHz Single Control SPDT Switch
+K RF Switch
+F https://datasheet.lcsc.com/szlcsc/Skyworks-Solutions-SKY13453-385LF_C150878.pdf
+$ENDCMP
+#
+$CMP SX1276
+D 137 MHz to 1020 MHz Low Power Long Range Transceiver
+K LoRa Modem Transceiver
+F https://datasheet.lcsc.com/szlcsc/2010281834_SEMTECH-SX1276IMLTRT_C80171.pdf
+$ENDCMP
+#
+#End Doc Library
